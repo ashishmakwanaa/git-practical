@@ -2,8 +2,5 @@ this is second.txt file
 
 this is second line
 
-<<<<<<< HEAD
-this is fourth line
-=======
 this is third line
 >>>>>>> master
